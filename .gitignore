@@ -1,6 +1,6 @@
 .ipynb_checkpoints/
 dataset_of_orange_leaf_disease/
-/api/first_fast_api.py
+api/first_fast_api.py
 saved_models/
 
 __pycache__/

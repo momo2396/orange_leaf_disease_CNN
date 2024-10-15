@@ -1,0 +1,26 @@
+/* styles.css */
+
+/* Base styles for light theme */
+body.light-theme {
+  background-color: white; /* Light background */
+  color: black; /* Dark text color */
+}
+
+/* You can add more light theme styles here */
+h1,
+h2,
+h3 {
+  color: #333; /* A bit darker text for headers */
+}
+
+/* Dark theme styles (optional, if you plan to implement a toggle) */
+body.dark-theme {
+  background-color: #333; /* Dark background */
+  color: white; /* Light text color */
+}
+
+h1,
+h2,
+h3 {
+  color: white; /* A bit darker text for headers */
+}
